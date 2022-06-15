@@ -1,4 +1,3 @@
-# Research-on-Dc-Motor-and-Propeller-Remote-Controlled-Aquatic-Garbage-Collector
-## Research-on-Dc-Motor-and-Propeller-Remote-Controlled-Aquatic-Garbage-Collector
-#### Research-on-Dc-Motor-and-Propeller-Remote-Controlled-Aquatic-Garbage-Collector
-###### Research-on-Dc-Motor-and-Propeller-Remote-Controlled-Aquatic-Garbage-Collector
+# Imaginative Abstract_Ayuban_RDCMPRCGC
+## Ayuban_RDCMPRCGC_INDIVIDUAL
+#### README.MD
